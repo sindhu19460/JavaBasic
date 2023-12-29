@@ -1,0 +1,19 @@
+VS.
+.git is local repo
+
+Creating local repo
+
+Git –version
+Git status 
+Git init [ it will creat empty repo]
+Git status
+On branch master [while we r installing we dont want master]
+Delete in folder
+
+Git status
+Git init -t main
+Git status
+
+
+
+
