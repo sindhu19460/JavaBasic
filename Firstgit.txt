@@ -25,5 +25,17 @@ Git status
 Git log [History of commit]
 Git commit[it will not work]
 Git commit -m “any commit name”
+Update the file
+Git status
+
+Git commit -m “file name”
+	Its not staging area
+
+Git add Firstgit.txt [stagging cmd]
+Git commit -m “file name”
+Git log
+We can skip the staging, Yes we can
+	Git commit -a -m “File name”
+
 
 
