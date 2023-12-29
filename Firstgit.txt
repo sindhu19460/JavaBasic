@@ -15,5 +15,15 @@ Git init -t main
 Git status
 
 
+Create txt file
+
+
+Upload file
+Git add Firstgit.txt
+Clear
+Git status
+Git log [History of commit]
+Git commit[it will not work]
+Git commit -m “any commit name”
 
 
