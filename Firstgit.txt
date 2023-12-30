@@ -40,5 +40,5 @@ We can skip the staging, Yes we can
 
 csnsnn
 cnsjncsn
-Putinto git rep0
+Put into git rep0
 
