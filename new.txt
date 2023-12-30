@@ -3,4 +3,4 @@
 
 proceess the dtata
 
-create an avatra for user
+create an avatra for usergit
